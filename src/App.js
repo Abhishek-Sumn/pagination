@@ -3,7 +3,7 @@ import axios from 'axios'
 import './App.css';
 import Posts from './components/Posts';
 import Pagination from './components/Pagination';
-//2
+//3
 
 function App() {
 
